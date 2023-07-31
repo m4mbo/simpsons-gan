@@ -1,5 +1,5 @@
-# Diffusion_and_GAN_Generation_of_Simpson_Faces
-This repository showcases a comparison between two of the most relevant generative models as of July 2023, Generative Adversarial Networks and Diffusion Models, for the generation of Simpson Faces.
+# Diffusion_and_GAN_Generation_of_Simpsons_Faces
+This repository showcases a comparison between two of the most relevant generative models (built in pytorch) as of July 2023, Generative Adversarial Networks and Diffusion Models, for the generation of Simpsons Faces.
 
 GAN Model:
 

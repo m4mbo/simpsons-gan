@@ -26,5 +26,5 @@ This repository showcases two of the most relevant generative models (built in p
 * [LMH](https://www.lmh.ox.ac.uk/) summer program on 'AI and ML: Advanced Applications' - Theory
 
 <div align="center">
-  <img src="res/variety.gif" alt="demo" width="800"/>
+  <img src="res/variety.png" alt="demo" width="900"/>
 </div>
